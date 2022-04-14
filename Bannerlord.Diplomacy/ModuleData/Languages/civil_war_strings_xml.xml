@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-16"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="Türkçe" />
+  </tags>
+  <strings>
+    <string id="0WVHMfN8" text="İsyan bastırılıyor." />
+    <string id="BVNGIAMM" text="{PARENT_KINGDOM} krallıklarını kasıp kavuran isyanı bastırdı. {PLAYER_PARTICIPATION}" />
+    <string id="x5ThZR5A" text="Yeni Bir Krallık Ortaya Çıkıyor" />
+    <string id="nRxyMIEE" text="{PARENT_KINGDOM} iç savaşı kaybetti ve krallığını bir arada tutamadı. {KINGDOM} kuruldu. {PLAYER_PARTICIPATION}" />
+    <string id="1OQGJkqb" text="Bir İsyancı Bölük Ortaya Çıkıyor" />
+    <string id="pqjZ6wck" text="{KINGDOM}'da İsyancı Bir Bölük Ortaya Çıktı. {CLAN_NAME} klanı tarafından yönetiliyor. {DEMAND}" />
+    <string id="ZAfNviVS" text="İftirak." />
+    <string id="wUspUo1y" text="Çekil." />
+    <string id="LF19GulH" text="Krallıktan ayrıl. Bu bölüğün üyeleri yeni bir krallık kuracak. Sadece 4. Kademe ve üzeri klanlar bir bölük iftirakı başlatabilir." />
+    <string id="GK1seKeJ" text="Krallığın liderini istifaya zorla. Yeni lideri belirlemek için bir seçim yapılacak." />
+    <string id="brEXAKDb" text="İsyancılar topraklarının krallıktan ayrılmasının onaylanmasını talep ediyor." />
+    <string id="8A6JPMWp" text="İsyancılar {LEADER}'in tahttan inmesini talep ediyor." />
+    <string id="ChzQncc0" text="İsyan" />
+    <string id="WUAv0u4U" text="Destek Toplama" />
+    <string id="fw0k1KFl" text="Talep Et: {DEMAND_NAME}" />
+    <string id="FajeZClv" text="{REBELS} ({KINGDOM} İsyancılar)" />
+    <string id="nAvLFv5Q" text="İç Savaş Ortaya Çıktı" />
+    <string id="2PpZkBOB" text="{KINGDOM}'ta bir iç savaş ortaya çıktı. {REBEL_KINGDOM}, {CLAN_NAME} klanı tarafından yönetiliyor.. {DEMAND}" />
+    <string id="o0HIAHqg" text="Asi krallıklar diplomatik hareketlerin hedefi olamaz." />
+    <string id="GKSaZESx" text="Yeni hükümdarın seçilmesi ve taleplerin yerine getirilmesiyle {PARENT_KINGDOM}'ın {REBELS} dağılıyor." />
+    
+    <string id="BPcKHP0D" text="Başkaldırının lideri olarak {INFLUENCE} nam kazandın." />
+    <string id="UoMvwnTb" text="Başkaldırının lideri olarak {INFLUENCE} nam kaybettin." />
+    <string id="QiX6m5cp" text="Başkaldırının bir üyesi olarak {INFLUENCE} nam kazandın." />
+    <string id="yrz8GMUb" text="Başkaldırının bir üyesi olarak {INFLUENCE} nam kaybettin." />
+
+    <string id="SNLviWvc" text="Sadık olanların lideri olarak {INFLUENCE} nam kazandın." />
+    <string id="2I1X5fAC" text="Sadık olanların lideri olarak {INFLUENCE} nam kaybettin." />
+    <string id="4FfA8RL4" text="Sadık olanların bir üyesi olarak {INFLUENCE} nam kazandın." />
+    <string id="uUu7DEDU" text="Sadık olanların bir üyesi olarak {INFLUENCE} nam kaybettin." />
+    
+    <string id="f66sNaiz" text="Başkaldırının bir parçası olamazsın." />
+
+    <string id="DZ6dpEn3" text="Bölüğe Katıl" />
+    <string id="uTCw0WiH" text="Bölükten Ayrıl" />
+    <string id="1OUDq7Ul" text="Güç Dengesi" />
+    <string id="5q7TvMGL" text="Başkaldırı Başlat" />
+    <string id="Ysrttgis" text="Başlangıç Tarihi: {CAMPAIGN_TIME}" />
+    <string id="o3w3jNzZ" text="Talep: {DEMAND_NAME}" />
+    <string id="hbPiVQVK" text="Durum: {STATUS}" />
+    <string id="TvSHYACm" text="Güç: {STRENGTH}" />
+    <string id="dlANhHUd" text="Bölükler" />
+    <string id="hBSo0Ziq" text="Bölük Oluştur" />
+    <string id="2PglxF8k" text="Bölüğün Talebini Seç" />
+    <string id="gypPPxUJ" text="Bölükler" />
+    <string id="aWWzFITw" text="Bir Hükümdar Tahttan İniyor" />
+    <string id="2Pv3DsVm" text="{PARENT_KINGDOM} iç savaşı {REBELS}'a karşı kaybetti. {LEADER} will abdicate the throne. {PLAYER_PARTICIPATION}" />
+    <string id="GkhKppOk" text="Yeterince Tımar Yok" />
+    <string id="Jc1mCVuY" text="Özellik: Kurnaz" />
+    <string id="cjbVV7E3" text="Klanın Kademesi Çok Düşük" />
+    <string id="Vp9EcnuC" text="Bçlük Eğilimi" />
+    <string id="dr1OCcmL" text="Hükümdar İle İlişkiler" />
+    <string id="mouJZAAy" text="Lider ile ilişkiler" />
+    <string id="FtX4LPXF" text="Krallık Boyutu" />
+    <string id="VFwDRHc7" text="Katılımcılar" />
+    <string id="IYO5TNTg" text="Yönetme Hakkı" />
+    <string id="YLUocN5e" text="Liderin Yönetmeye Hakkı Vardır" />
+    <string id="qAcR4Yee" text="Bölükteki Dost Klanlar" />
+    <string id="1AZK0UVJ" text="Liderin Yönetmeye Hakkı Yoktur" />
+
+	  <string id="ovgs58sT" text="Aktif bir başkaldırı varken yeni bir bölük oluşturulamaz." />
+	  <string id="VbpiW2bd" text="İç Savaştan Hemen Sonra Bir Bölük Oluşturlamaz." />
+    <string id="JDk8ustS" text="Paralı Askerler Bölük Oluşturamaz." />
+    <string id="quo5erz6" text="Yöneticiler Bölük Oluşturamaz." />
+    <string id="luvsD6Zn" text="Asi Bir Krallıkta Bölük Oluşturalamaz." />
+    <string id="iXMeCmj0" text="Klan Kademesi 4 ya da üzeri olmalı."/>
+    <string id="Xu3rnEEa" text="Must be part of {KINGDOM_NAME} to create a {KINGDOM_NAME} faction." />
+    <string id="DxJH7ciY" text="Bir krallık en fazla bir çekilme bölüğüne sahip olabilir." /> 
+    <string id="zTZWwJfN" text="Aynı anda iki bölük yönetemezsin." />
+    
+    <!-- <string id="" text="" /> -->
+
+	  <string id="EYB5Uggd" text="Lider {TRAIT}" />
+	  <string id="E00ywbqb" text="Hükümdar {TRAIT}" />
+
+    <string id="GeevRiNR" text="{LABEL}{newline} {newline}{REASON}" />
+    <string id="ALSuNVzE" text="{EXCEPTION}{newline} {newline}{DEMAND_HINT}" />
+
+    <!-- Settings -->
+    <string id="eDZeFUTH" text="İç Savaşlar" />
+    <string id="VB97zQeJ" text="Gün Olarak İç Savaşlar Arasındaki En Az Süre" />
+    <string id="5cUqaLk4" text="Bir iç savaş ile bir krallıkta yeni isyancı grupların ortaya çıkabileceği zaman arasında gereken minimum süre. Varsyılan Değer 240." />
+    <string id="UdadyqpN" text="Günlük İsyan Bölüğü Oluşturma Şansı" />
+    <string id="yznXCi1d" text="Bir klanın isyan birliği oluşturmak için günlük şansı. Varsayılan 100%." />
+    <string id="r312b3Of" text="Asi Bölüğüne Katılmak İçin Günlük Şans" />
+    <string id="06oPGRj0" text="Bir Klanın Desteklemek İsteyeceği Bir Asi Bölüğe Katılmasının Günlük Şansı. Varsayılan 100%." />
+    <string id="lIbUuQB1" text="Günlük İç Savaş Başlatma Şansı" />
+    <string id="zr10ZS3L" text="Yeterli Desteğe Sahip Bir Bölüğün İç Savaş Başlatmak İçin Günlük Şansı. Varsayılan 50%." />
+    <string id="VNILqmoY" text="Maximum Faction Duration in Days" />
+    <string id="rNJIvaSm" text="Bir Bölüğün İç Savaşa Girmeden Bekleyebileceği En Fazla Süre. Varsayılan 120." />
+    <string id="6kNmdLxZ" text="Bölük Oluşturmanın Nüfuz Bedeli" />
+    <string id="EwbXg3va" text="Bölük Oluşturmanın Nüfuz Bedeli.Varsayılan 100." />
+    <string id="7wK0mmw1" text="Bölük Eğilimi" />
+    <string id="7wK0mmw1" text="Klanların bölük oluşturma ya da bölüklere katılma eğilimini etkileyen puan katlayıcı. Katlayıcıyı artırmak, bölük katılımını artırır. Varsayılan 0." />
+    
+  </strings>
+</base>
