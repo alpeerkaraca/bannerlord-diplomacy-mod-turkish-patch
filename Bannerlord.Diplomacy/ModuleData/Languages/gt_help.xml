@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-16"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <strings>
+    <!--  
+    <string id="" text="" />
+    -->
+
+    <string id="str_faction_help" text="{=bAkTqxmf}Bir bölük, krallıkta ortak bir amacı olan bir grup klandır. Bir bölük yeterince destek alırsa, bir iç savaş başlatacaktır. İsyancılar savaşı kazanırsa, talepleri kabul edilecek. Sadıklar kazanırsa, asi klanlar krallığa geri dönecek. Galip klanlar, galip arkadaşlarıyla nüfuz ve ilişkiler kazanacaklar. Mağlup edilen klanlar nüfuzunu kaybeder. Klanlar nüfuz harcayarak bir bölük başlatabilir." />
+	
+	<string id="str_wardetail_help" text="{=XXUwW6TM}Savaş yorgunluğu, bir krallığın teslim olmaya ne kadar yakın olduğunu gösterir. Savaş yorgunluğu %100'e ulaştığında krallık teslim olacaktır. Kayıplar, kaybedilen tımarlar, yağmalanan köyler ve savaşın süresi, savaşın sona ermesine katkıda bulunur. Bir krallık son tımarını kaybettiğinde artık savaşmaya devam edemez ve savaş yorgunluğu otomatik olarak %100'e ayarlanır.."/>
+	
+	<string id="str_warexhaustionrate_help" text="{=dh2NE8Of}Savaş yorgunluğu oranı, savaşta savaş yorgunluğunun birikme hızıdır. Savaş yorgunluğu, daha büyük krallıklar arasındaki savaşlarda daha yavaş birikir." />
+  </strings>
+</base>

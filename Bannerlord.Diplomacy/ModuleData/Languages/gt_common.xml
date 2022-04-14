@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-16"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <strings>
+    <!--  
+    <string id="" text="" />
+    -->
+    <string id="str_stat" text="{=ffjTMejn}Durum" />
+    <string id="str_war_exhaustion" text="{=V542tneW}Savaş Yorgunluğu" />
+  </strings>
+</base>
