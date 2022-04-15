@@ -1,5 +1,5 @@
 # bannerlord-diplomacy-mod-turkish-patch
-
+Change language English to Turkish
 
 # Kurulum ve Özet[TR]
 ### Özet
